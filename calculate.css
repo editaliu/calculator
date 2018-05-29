@@ -1,0 +1,26 @@
+.container {
+    background-color: #B5CBCF;
+    width: 60%;
+    text-align: center;
+    padding: 50px;
+    margin-top: 5%;
+    border-radius: 20px;
+}
+
+.form-group {
+    padding-top: 5%;
+}
+
+#buttons {
+    padding-top: 3%;
+}
+
+#second {
+    padding-top: 1%;
+}
+
+#viso {
+    color: #0069D9;
+    font-weight: bold;
+    font-size: 20px;
+}
